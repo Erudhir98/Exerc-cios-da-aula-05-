@@ -1,4 +1,4 @@
 # Dobro do valor
 
 num = 4
-print("Dobro:", num * 2)
+print("dobro:", num * 2)

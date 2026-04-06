@@ -3,6 +3,6 @@
 num = 7
 
 if num % 2 == 0:
-    print("Par")
+    print("par")
 else:
-    print("Ímpar")
+    print("ímpar")

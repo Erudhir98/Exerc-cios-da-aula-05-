@@ -3,6 +3,6 @@
 num = 7
 
 if 0 <= num <= 10:
-    print("Dentro do intervalo")
+    print("dentro do intervalo")
 else:
-    print("Fora do intervalo")
+    print("fora do intervalo")

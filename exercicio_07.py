@@ -3,6 +3,6 @@
 num = 12
 
 if num > 10:
-    print("Maior que 10")
+    print("maior que 10")
 else:
-    print("Menor ou igual a 10")
+    print("menor ou igual a 10")

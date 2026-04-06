@@ -2,5 +2,5 @@
 
 valor = "10"
 
-print("Valor:", valor)
-print("Tipo:", type(valor))
+print("valor:", valor)
+print("tipo:", type(valor))

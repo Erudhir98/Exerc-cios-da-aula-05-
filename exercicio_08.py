@@ -3,6 +3,6 @@
 num = 9
 
 if num > 0:
-    print("Raiz:", num ** 0.5)
+    print("raiz:", num ** 0.5)
 else:
-    print("Número inválido")
+    print("número inválido")

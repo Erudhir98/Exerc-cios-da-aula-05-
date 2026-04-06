@@ -3,6 +3,6 @@
 num = 5
 
 if num >= 0:
-    print("Positivo")
+    print("positivo")
 else:
-    print("Negativo")
+    print("negativo")
